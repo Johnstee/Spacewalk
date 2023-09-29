@@ -1,0 +1,4 @@
+{"msg":"init","dagFile":"artifacts\\tundra.dag","targets":[]}
+{"msg":"newNode","annotation":"Il2Cpp C:/Users/Will/OneDrive - Trinity College Gawler/2020/CERTIFICATE III IDMT/FINAL GAME/SPACEWALK/Library/Il2cppBuildCache/WSAPlayer/Native/GameAssembly.dll","index":1}
+{"msg":"noderesult","annotation":"Il2Cpp C:/Users/Will/OneDrive - Trinity College Gawler/2020/CERTIFICATE III IDMT/FINAL GAME/SPACEWALK/Library/Il2cppBuildCache/WSAPlayer/Native/GameAssembly.dll","index":1,"exitcode":0}
+{"msg":"newNode","annotation":"all_tundra_nodes","index":0}
